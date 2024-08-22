@@ -1,0 +1,16 @@
+
+
+====== Opeypyxl 사이트에서 
+https://openpyxl.readthedocs.io/en/stable/
+
+ㄴ
+Chart 메뉴에서 
+https://openpyxl.readthedocs.io/en/stable/charts/introduction.html
+
+ㄴ
+다양한 차트
+ㄴ
+안에 -> 더자세히 공부
+샘플 - symbol , ...
+
+설명 예시 !!!
